@@ -7,6 +7,7 @@ SVG_credit_scoring_model
 
 
 Pour accéder ainsi au Dashboard sur le cloud il suffit d'utiliser l'URL suivant:
+
 https://sophievel3-svg-credit-p7-sofia-velasco-1-dashboard-cloud-49prj2.streamlit.app/
 
 ---------------------------------------------------------------------------------------------------------
