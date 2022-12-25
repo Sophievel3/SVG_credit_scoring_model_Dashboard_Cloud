@@ -40,11 +40,11 @@ if st.button("Explain Results"):
         
         
         #Affichage du score du client.
-        components.iframe("https://svg-crsm-flask.herokuapp.com/app/id/")
+        components.iframe("https://svg-crsm-flask2.herokuapp.com/app/id/")
         
         #Affichage des features importances globales.
-        components.iframe("https://svg-crsm-flask.herokuapp.com/app/feat_imp_global/")
+        components.iframe("https://svg-crsm-flask2.herokuapp.com/app/feat_imp_global/")
 
         #Affichage des features importances locales pour le client.
-        components.iframe("https://svg-crsm-flask.herokuapp.com/app/id/", width=800, height=800, scrolling=True)
+        components.iframe("https://svg-crsm-flask2.herokuapp.com/app/id/", width=800, height=800, scrolling=True)
 
